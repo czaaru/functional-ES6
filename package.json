@@ -1,7 +1,7 @@
 {
   "name": "functional-ES6",
   "version": "1.0.0",
-  "description": "",
+  "description": "Repository containing final state of functional-ES6 course.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,19 @@
     "@babel/core": "^7.13.13",
     "@babel/node": "^7.13.13",
     "@babel/preset-env": "^7.13.12"
-  }
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-immutable": "^1.0.0",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czaaru/functional-ES6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/czaaru/functional-ES6/issues"
+  },
+  "homepage": "https://github.com/czaaru/functional-ES6#readme"
 }
